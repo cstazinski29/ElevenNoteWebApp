@@ -454,4 +454,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 ## Migrations
-.ElevenNoteWebApp/Server/Data/Migrations/*
+ElevenNoteWebApp/Server/Data/Migrations/*
