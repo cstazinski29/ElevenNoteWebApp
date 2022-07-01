@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNoteWebApp.Server", "ElevenNoteWebApp\Server\ElevenNoteWebApp.Server.csproj", "{8F9F0B4E-212A-4478-BB4E-690032B19DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElevenNoteWebApp.Server", "ElevenNoteWebApp\Server\ElevenNoteWebApp.Server.csproj", "{8F9F0B4E-212A-4478-BB4E-690032B19DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNoteWebApp.Client", "ElevenNoteWebApp\Client\ElevenNoteWebApp.Client.csproj", "{EC2EA421-54FC-41FD-BADC-02C90A06A286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElevenNoteWebApp.Client", "ElevenNoteWebApp\Client\ElevenNoteWebApp.Client.csproj", "{EC2EA421-54FC-41FD-BADC-02C90A06A286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNoteWebApp.Shared", "ElevenNoteWebApp\Shared\ElevenNoteWebApp.Shared.csproj", "{F16FDDB4-6788-43D2-8935-D1306513DCD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElevenNoteWebApp.Shared", "ElevenNoteWebApp\Shared\ElevenNoteWebApp.Shared.csproj", "{F16FDDB4-6788-43D2-8935-D1306513DCD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
